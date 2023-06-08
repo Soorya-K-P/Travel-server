@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "title": "Singapore",
+    "price": 32000,
+    "description": "Known as the microcosm of modern Asia and a melting pot of culture and history, Singapore is one of the best-visited tourist destinations in the world. So whether you are looking for a Singapore package for a cultural getaway or just a Singapore holiday package with family and friends, pick the best one at Holidify. Offering customisable packages to suit every kind of traveller from Bali, Kuala Lumpur, Bangkok, Bintan Island, and other parts of the world, Holidify’s Singapore tour packages are an excellent way to experience the best of this beautiful destination.Singapore is known as a City in a Garden and nearly 50 percent of the island is green space. Singapore is a melting pot of culture and history, and an extravaganza of culinary delights. Officially known as the Republic of Singapore.",
+    "image": "https://i.postimg.cc/2SRYh5JC/1.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "day": "5 Days",
+    "location": "Singapore",
+    "night": "4 Nights"
+  },
+  {
+    "id": 2,
+    "title": "Malaysia",
+    "price": 54000,
+    "description": "Malaysia is a beautiful Southeast Asian country, situated near the equator. It is created by merging two different regions; one is Peninsular Malaysia & East Malaysia. Kuala Lumpur is its capital and Putrajaya is the administrative center. Malaysia was a British territory, and in August 1965, it became an independent country.\n\nMalaysia is one of the biggest tourist attractions in the South East Asia and Malaysia tour package is one of the most searched items on the internet. Every year hundreds of thousands of tourists visited and explored this beautiful country. Malaysia truly has some of the fascinating tourist destinations in the world. Malaysia is a place of diversity and so many Malaysia holiday packages for visitors to explore.\n\nlacket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+    "image": "https://i.postimg.cc/pr3By4sL/2.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "day": "4 Days",
+    "location": "Malaysia",
+    "night": "3 Nights"
+  },
+  {
+    "id": 3,
+    "title": "Hong Kong",
+    "price": 65000,
+    "description": "Hong Kong, officially known as the Special Administrative Region of the People’s Republic of China is a burst of culture and colour. Housing 18 districts, Hong Kong is one of the most heavily populous regions in the world and the city with the most number of skyscrapers in the world. A major port and shopping hub, Hong Kong is the land of an iconic skyline, delectable cuisine, and protected lush nature reserves.Hong Kong is a beautiful juxtaposition of the glamorous and opulent landmarks on one side and unique landscape, ancient temples & monasteries, famous restaurants, and waterfronts on the other.  It is known to have the world’s most gorgeous skyline, scenic hikes, world-famous cruises, rich marine life, plenty of watersports, and glass-cable car rides. Not to mention popular attractions like Disneyland, Ocean Park, and Madame Tussauds.",
+    "image": "https://i.postimg.cc/26gD88Nb/3.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    },
+    "day": "5 Days",
+    "location": "Hong Kong",
+    "night": "4 Nights"
+  },
+  {
+    "id": 4,
+    "title": "Italy",
+    "price": 148000,
+    "description": "Officially known as the Italian Republic the country of Italy is a boot-shaped peninsula in the heart of the Mediterranean Sea. It shares its northern borders with France, Switzerland, Austria and Slovenia. Several small islands also form part of Italy, among them, Sicily and Sardinia are the largest. The charming Alps and Apennine mountains criss-cross the country's landscape.\n\nItaly boasts one of the longest coastlines in the world and around 248 beaches of Italy have been awarded the Blue Flag status for their clear emerald waters and unspoiled sands. The country is home to Europe’s largest active volcano Mt. Etna - a UNESCO World Heritage Site, providing a spectacular sighting of eruptions, lava flows, soot-filled skies and extensive caves. Interestingly Italy has the world's highest number of World Heritage sites - 51 in all..",
+    "image": "https://i.postimg.cc/V6FbtT4F/pexels-alex-does-pictures-14064478.jpg",
+    "rating": {
+      "rate": 2.1,
+      "count": 430
+    },
+    "day": "8 Days",
+    "location": "Italy",
+    "night": "7 Nights"
+  },
+  {
+    "id": 5,
+    "title": "Spain",
+    "price": 80000,
+    "description": "Spain is a larger than life expression of beauty. A contrast of wild and tame, layered and exotic, and certainly one of the places that you must visit at least once in your lifetime. It wouldn’t be too off the mark to think of Spain as a symbol of life, vibrant and resonating with culture and all sorts of delights. Travellers to Spain are taken in by the gorgeous vistas, the glorious mountain ranges, the warm Mediterranean waters, the historical cathedrals and of course, the delicious food.Just a couple of years ago, Spain was one of the second most visited countries in the world, seeing the arrival of as many as 82 million tourists. There’s much to see here, from the scenic coastlines, interesting landscapes to the rich culture, and it’s no wonder then that tourists want to come here, again and again. ",
+    "image": "https://i.postimg.cc/5ydFQCh8/5.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    },
+    "day": "3 Days",
+    "location": "Spain",
+    "night": "2 Nights"
+  },
+  {
+    "id": 6,
+    "title": "Australia",
+    "price": 70000,
+    "description": "Australia is rich in wildlife and rainforests that act as a catalyst to the ever growing life forms in the country. The coastlines are very elongated and beautiful, accompanied by a multicultural blend of seafood dishes that take your plate on a thrilling ride. If beer is not your cup of whiskey, then Australia has got your back with its numerous wine distilleries that serve the best wine in the world. If alcohol is not your cup of coffee, then you will be more than delighted to be in Australia, as this place is nirvana for all the coffee lovers. Tourism in Australia is a rich blend of all the lovely things, giving you experiences of a life time.Australia is rich in wildlife and rainforests that act as a catalyst to the ever growing life forms in the country.The coastlines are very elongated and beautiful, accompanied by a multicultural blend of seafood dishes that take your plate on a thrilling ride.",
+    "image": "https://i.postimg.cc/L5p3Kw8d/6.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 70
+    },
+    "day": "6 Days",
+    "location": "Australia",
+    "night": "5 Nights"
+  },
+  {
+    "id": 7,
+    "title": "France",
+    "price": 44000,
+    "description": "Paris is almost synonymous with France so there’s no way you can skip visiting this city when travelling through the country. With the iconic Eiffel Tower, top-ranked restaurants, cafes and bistros, and, and abundance of high-fashion boutiques, Paris is definitely a city you must visit. Whether you’re an art lover or not, you must visit the Louvre to witness some of the best works of art mankind’s ever produced – one of the most cited stories at the Louvre is about how even the most skeptical people are left speechless on finally standing in front of the Mona Lisa.Bordeaux offers a fantastic visual experience, with 19th century mansions standing next to magnificent palaces, the Garonne River and a spectacular view of the cities from the Napoleonic-era Pont de Pierre. ",
+    "image": "https://i.postimg.cc/KvN7g0Jf/7.jpg",
+    "rating": {
+      "rate": 3,
+      "count": 400
+    },
+    "location": "France",
+    "nights": "1 Night",
+    "day": "2 Days"
+  },
+  {
+    "id": 8,
+    "title": "Greece",
+    "price": 77000,
+    "description": "Greece mainland and the Greek islands have some of the favorite holiday destinations in Europe.\nGreece comes in 13th place (2019) in the world rating of tourist destinations, since, according to the National Statistical Service of Greece, it receives more than 30 million tourists every year, after countries such as the USA, China, Spain, France and Great Britain.\nMost tourists to Greece come from Europe, especially the EU countries, and from the USA, while fewer originate from the other continents.\nIn 1989 and 1991, approximately 90% of the tourists to Greece were Europeans, in particular, German and British citizens.The best times to visit Greece is during spring and fall as the weather is extremely pleasant, accompanied by beautiful wildflowers growing all over the place.",
+    "image": "https://i.postimg.cc/K8QywhQT/8.jpg",
+    "rating": {
+      "rate": 1.9,
+      "count": 100
+    },
+    "location": "Greece",
+    "night": "7 Nights",
+    "day": "7 Days"
+  },
+  {
+    "id": 9,
+    "title": "Switzerland",
+    "price": 51000,
+    "description": "Switzerland is a breathtakingly beautiful land-locked country in Central Europe with France to the west, Italy to the south, Austria to the east and Germany to the north. The country is famous for its scenic Alps and its rolling hills, plains, and lakes. It is also renowned for its chocolates and watches, while the Swiss knife is a legend in itself! Tourism in Switzerland is a delight of skiing, snow-walking, gorging on chocolates and cheeses and of course, swaying in the Alps. Here is a travel guide to Switzerland for one and sundry, to help you plan your next holiday.Any time is a good time to visit Switzerland. Plan your trip according to what you wish to do during your visit. But if you must pick a season, then June to August would be the best months to visit as summer is a fairly pleasant time for hiking and sightseeing.",
+    "image": "https://i.postimg.cc/HLQbd3cb/9.jpg",
+    "rating": {
+      "rate": 3.3,
+      "count": 203
+    },
+    "day": "4 Days",
+    "location": "Switzerland",
+    "night": "3 Nights"
+  },
+  {
+    "id": 10,
+    "title": "Canada",
+    "price": 150000,
+    "description": "Canada is famous for its unspoilt beauty and unending natural vistas, which have become the symbol for the nation. However, the country also has a unique vibe that is captured beautifully in all its man-made monuments, some of them quite recognisable landmarks by themselves. Each of these brings its own charm to the place and gives reason for more visitors to come to these shores. When in Canada, don’t miss a chance to drive on the Confederation Bridge over icy waters. Do visit St Joseph’s Oratory, known to be the third-largest dome in the world. Parliament Hill displays excellent architecture and design. And how can one miss the CN Tower in Toronto.. Canada has an amazing culture and it believes in people’s happiness and equality first. The Canadians love visitors and whip up some amazing meals too. ",
+    "image": "https://i.postimg.cc/5NGmxSvf/10.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 470
+    },
+    "day": "2 Day",
+    "location": "Canada",
+    "night": "1 Night"
+  },
+  {
+    "id": 11,
+    "title": "Egypt",
+    "price": 32000,
+    "description": "The very name Egypt conjures a land of mystique, the ancient pyramids, the glorious River Nile and a country that is at the crossroads of tradition and modernity. In common parlance, even if Egypt was called the ‘gift of the Nile’, it’s actually the gift that keeps on giving. From its 7000 year old history to its fascinating culture, Egypt is richly layered, a multitude of complexities, and a cornucopia of culinary delights.Colourful markets, stunning mosques, the mesmerising Pharaonic sites, natural and manmade architectural wonders, everything is in excess here, a trait that is entirely Egyptian and one that you will soon come to recognise in everything that you see here. Egypt has a mild and sunny winter with occasional rain during the months of October to February, which is usually considered the peak season. During December and January especially, places like the Pyramids and the temples of Luxor are quite crowded.  ",
+    "image": "https://i.postimg.cc/j5Y0JqSG/11.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 319
+    },
+    "day": "13 Days",
+    "location": "Egypt",
+    "night": "12 Nights"
+  },
+  {
+    "id": 12,
+    "title": "Netherlands",
+    "price": 56000,
+    "description": "The Netherlands is a small European country that shares its eastern and southern borders with Germany and Belgium respectively, while being connected to the sea in the northern and western areas. The country is an extremely popular travel destination thanks to its rich cultural heritage, fascinating historical architecture, impressive modernisation and so much more.The best time to visit The Netherlands is between April and October. April and May experience blossoms of tulips and other spring bulbs, making for a colourful visit for the travellers. While the weather is at its best in the summer months of June, July and August, they are also the busiest and art aficionados might not enjoy visiting the overcrowded museums. If you are someone who wants to enjoy the marvels of various artists in peace, then September and October are the months to visit the country.  ",
+    "image": "https://i.postimg.cc/MHkYQLpD/12.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    },
+    "day": "2 Days",
+    "location": "Netherlands",
+    "night": "1 Night"
+  },
+  {
+    "id": 13,
+    "title": "Japan",
+    "price": 44000,
+    "description": "In the Land of the Rising Sun, ancient temples sit alongside neon wonderlands and shinto shrines offer pockets of peace amid metropolises. Add tea ceremonies, snow monkeys, sushi, kimonos, and karaoke to the mix, and you’ve got one of the world’s most fascinating countries.Japan is best known for its beautiful and stunning Buddhist temples and Shinto shrines. The tourist places in Japan offers some of the best exotic spots. Everything from the public vehicles to the streets here are very neat and clean. Its splendid natural landscapes, which include the spectacle of Mount Fuji, the beautiful sight of the Arashiyama Bamboo Forest and the ancient rugged mountains, make Japan an ideal travel destination for nature lovers all throughout the year. ",
+    "image": "https://i.postimg.cc/WpFDmXSj/13.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 250
+    },
+    "day": "1 Day",
+    "location": "Japan",
+    "night": "1 Night"
+  },
+  {
+    "id": 14,
+    "title": "United Kingdom",
+    "price": 230000,
+    "description": "The United Kingdoms or more commonly known as the UK is made up of four countries, Northern Ireland, Scotland, Wales and England. Scotland, Wales, and England make up the Great Brittan. The United Kingdom is located on the north-western coast of the European continent. The north and west regions of UK consist of sharp mountain ranges, valleys, and high grounds. This part of UK was formed during the last ice age a time when the entire region was covered by glaciers. Southern England is covered with rolling hills/ Scotland and northwest England filled with many lakes also known as lochs. These lakes were a result of the melting glaciers. They are often narrow, and ling and many can be several meters deep. The legend of the Loch Ness monster comes from here, as per the legend a monster names Nessie, lives in these lochs.\n\ng",
+    "image": "https://i.postimg.cc/Xv1K2LhW/14.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    },
+    "day": "2 Days",
+    "location": "United Kingdom",
+    "night": "2 Nights"
+  },
+  {
+    "id": 15,
+    "title": "India",
+    "price": 8000,
+    "description": "India is a country that attracts millions of tourists every year and is considered one of the most popular tourist destinations in the world. These visitors are attracted to its natural beauty and cultural heritage. It has many historic sites as well like the Taj Mahal, Golden Temple, Red Fort, etc. With so much to offer, it’s no surprise that tourism is one of the main sources of revenue for the country! \nTourism in India has been seen as a major tool to bring about socio-economic development to the people of the country. India’s tourism industry has grown steadily in recent years. Not only this, India Tourism industry also provides employment opportunities to several people from all parts of the world. There are ample numbers of hotels, resorts, food joints and various other amenities available for tourists arriving in India. s",
+    "image": "https://i.postimg.cc/bJNnjt7T/15.jpg",
+    "rating": {
+      "rate": 2.6,
+      "count": 235
+    },
+    "day": "6 Days",
+    "location": "India",
+    "night": "6 Nights"
+  },
+  {
+    "id": 16,
+    "title": "New Zealand",
+    "price": 82000,
+    "description": "New Zealand recognises the need to remember and commemorate the people who shaped this country to what it is today. Peppered all through the country, visitors find numerous attractions and monuments that celebrate its history and culture. And you needn’t travel too far to see most of them. Most are in prominent locations in major cities and you can easily enjoy this rich heritage within driving distance.New Zealand offers beautiful weather all year through depending on your holiday preferences. New Zealand is in the southern hemisphere, so the weather is the opposite of what most of us are accustomed to. Visit between December and February to enjoy a gorgeous summer and a sunny, outdoor Christmas. If you wish to hit the slopes, winter is a great time to plan your holiday.",
+    "image": "https://i.postimg.cc/rwMZthxF/16.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 340
+    },
+    "day": "1 Day",
+    "location": "New Zealand",
+    "night": "1 Night"
+  },
+  {
+    "id": 17,
+    "title": "Maldives",
+    "price": 25000,
+    "description": "The Maldives is an archipelagic state situated in the Indian Ocean known for its luxurious water villas. A tropical haven of white sand beaches, the Maldives is located in the south of Sri Lanka and is ideal for an adventure, honeymoon, or leisure holiday.\nThe Maldives is an archipelago of 1,192 coral islands grouped into natural atolls. However, only 200 islands are inhabited. Each resort generally occupies an entire atoll.\nImagine having a room on a pier jutting out from the shore with a glass floor under which manta rays and reef sharks can be seen swimming, and step out from your overwater bungalow to the view of turquoise water.The sun loves Maldives! Blue skies, gentle waves and the warm sun - perfect weather for all those great beach days. However, the best time to visit this island nation is from November to April.",
+    "image": "https://i.postimg.cc/66DpwZRh/17.jpg",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    },
+    "day": "3 Days",
+    "location": "Maldives",
+    "night": "2 Nights"
+  },
+  {
+    "id": 18,
+    "title": "Ireland",
+    "price": 55000,
+    "description": "Ireland is arguably one of the best destinations in the world for travelers who want to fully immerse themselves in nature and culture. Ireland has established itself as somewhat of a cultural hub, with fantastic music and literature churned out of this country regularly. As a result, travelers can find myriad options for plays, concerts, art experiences, and of course, hiking and exposure to stunning landscapes, ancient ruins, and lovely folklore.Dublin, the capital of Ireland, is a great place to start your journey. With all the trappings of a huge city, you’ll be able to experience fantastic nightlife, great food, and concerts. Don’t forget to chug down a glass of dark Guinness beer – something that you’ve simply got to do when in Dublin as its where this beer comes from.",
+    "image": "https://i.postimg.cc/j28BdfQh/18.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    },
+    "day": "5 Days",
+    "location": "Ireland",
+    "night": "4 Nights"
+  },
+  {
+    "id": 19,
+    "title": "Dubai",
+    "price": 54000,
+    "description": "Dubai is a premier destination for travelers from all over the world. It offers an array of fascinating tourist attractions from the world’s tallest building, The Burj Khalifa, to traditional Dubai shopping malls filled with luxury goods, to exotic beach resorts. Visitors will find plenty to do while in this exciting city, such as the skydiving experience, hot air balloon rides over the desert, desert safaris, and trips to some of the world’s best water parks. Dubai is also home to some of the most luxurious hotels in the world, with world-class shopping, dining, and entertainment experience. Additionally, tourists will find hundreds of attractions to explore and thrilling activities to do in Dubai.Dubai stands out in the desert sand. A true oasis to its visitors, the city of Dubai is the perfect getaway for holiday seekers. ",
+    "image": "https://i.postimg.cc/pXZhBJPd/19.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 146
+    },
+    "day": "5 Days",
+    "location": "Dubai",
+    "night": "4 Nights"
+  },
+  {
+    "id": 20,
+    "title": "Andaman and Nicobar",
+    "price": 50000,
+    "description": "One of the union territories of India, Andaman and Nicobar Islands is a breathtaking archipelago located in the Bay of Bengal. The exotic beaches blessed with coral reefs and amazing marine life making the landscape breathtakingly exquisite, cater a perfect beach holiday away from the hustle and bustle of the city life. This group of islands is an empyrean for both nature admirers and adrenaline junkies alike.The Andaman and Nicobar Islands, like magicians, wield good weather all year round. With minimal fluctuation in temperatures, you have ample opportunity to plan your trip. ",
+    "image": "https://i.postimg.cc/Nf6s8s77/20.jpg",
+    "rating": {
+      "rate": 3.6,
+      "count": 145
+    },
+    "day": "1 Day",
+    "location": "Andaman and Nicobar",
+    "night": "1 Night"
+  }
+]
